@@ -5,8 +5,13 @@ An easy to use and sample JSON API with Flask
 
 First step
 ```p
-First start application.py
+First start flask develop-server
 ```
+
+```c
+python3 application.py
+```
+
 
 Get the data
 ```p
